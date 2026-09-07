@@ -1,7 +1,7 @@
 [project]
 name = "grimoire"
 version = "0.1.0"
-description = "Add your description here"
+description = "A magic the gathering card discovery tool"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = ["requests"]
